@@ -7,5 +7,6 @@
 
 ## Books - notes/summaries
 * [Notes - Colorless Tsukuru and His Years of Pilgrimage - Haruki Murakami](https://github.com/harshchiki/gyaan/blob/master/Notes%20from%20Book%20-%20Colorless%20Tsukuru%20and%20His%20Years%20of%20Pilgrimage%20-%20Haruki%20Murakami/Notes%20from%20Book%20-%20Colorless%20Tsukuru%20and%20His%20Years%20of%20Pilgrimage%20-%20Haruki%20Murakami.md)
+* [Notes - Norwegian Wood - Haruki Murakami](https://github.com/harshchiki/gyaan/blob/master/Notes%20from%20Book%20-%20Norwegian%20Wood%20-%20Haruki%20Murakami/Notes%20from%20Book%20-%20Norwegian%20Wood%20-%20Haruki%20Murakami.md)
 * [How to Win Friends and Influence People](https://github.com/harshchiki/gyaan/blob/master/How%20to%20Win%20Friends%20and%20Influence%20People/How%20to%20In%20Friends%20and%20Influence%20People%20Notes.md)
 
