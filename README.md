@@ -1,4 +1,4 @@
-# gyaan
+# Learnings / Notes / Summary / Experience
 
 
 * [How to Win Friends and Influence People](https://github.com/harshchiki/gyaan/blob/master/How%20to%20Win%20Friends%20and%20Influence%20People/How%20to%20In%20Friends%20and%20Influence%20People%20Notes.md)
