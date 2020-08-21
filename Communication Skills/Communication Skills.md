@@ -23,7 +23,9 @@
     * Praise A before A's friend (when A is not present there)
     * Indirect praises create impact (positive).
 
-
+## A more effective way to thank
+* Add a reason.
+* Plain "thanks!" looks like a _mere_ formality (doesn't add to to the emotion, based on context)
 ------
 
 # Other books
