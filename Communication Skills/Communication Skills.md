@@ -22,3 +22,9 @@
     * Suppose you want to impress person A.
     * Praise A before A's friend (when A is not present there)
     * Indirect praises create impact (positive).
+
+
+------
+
+# Other books
+![](_resources/2020-08-22-01-44-27.png)
