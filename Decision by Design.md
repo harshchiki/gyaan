@@ -1,12 +1,9 @@
 # Decision by design
-1. Good decisions can have bad outcomes, just as bad decisions can have good outcomes.
-> The outcomes are often not within your control. However, your behavior is always within your control.
+1. Good decisions can have bad outcomes, just as bad decisions can have good outcomes. The outcomes are often not within your control. However, your behavior is always within your control.
 
-2. Decisions fall into a matrix of consequential vs. inconsequential and reversible vs. irreversible.
-> Break big, irreversible, and consequential decisions into the smaller ones – consequential & reversible, irreversible & inconsequential, and reversible & inconsequential.
+2. Decisions fall into a matrix of consequential vs. inconsequential and reversible vs. irreversible. Break big, irreversible, and consequential decisions into the smaller ones – consequential & reversible, irreversible & inconsequential, and reversible & inconsequential.
 
-3. The number one reason we solve the wrong problem is that our mind is wired to quickly go into problem-solving mode.
-> Instead, we should stop and think about whether we’re solving the right problem.
+3. The number one reason we solve the wrong problem is that our mind is wired to quickly go into problem-solving mode. Instead, we should stop and think about whether we’re solving the right problem.
 
 4. To find the root problem: 
 - Separate problem definition & problem solution
