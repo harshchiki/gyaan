@@ -1,5 +1,8 @@
 # Learnings / Notes / Summary / Experience
 
+## Quotes (not mine)
+* <https://github.com/harshchiki/gyaan/blob/master/Quotes.md>
+
 ## Articles
 * [Mentally Strong People - 13 Things They Avoid](https://github.com/harshchiki/gyaan/blob/master/Mentally%20Strong%20People%20-%2013%20things%20they%20avoid/Mentally%20Strong%20People%20-%2013%20things%20they%20avoid.md)
 * [Tips to Focus better](https://github.com/harshchiki/gyaan/blob/master/Tips%20to%20focus/Focus%20-%20Tips.md)
