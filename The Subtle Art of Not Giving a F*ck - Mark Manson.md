@@ -1,3 +1,8 @@
 # Learning
-Desperately want to be rick -> The more poort and unworthy you feel (regardless of how much money you actually make)
-Desperately want to be sexy and desired -> The uglier you come to see yourself (regardless of your actual physical appearance)
+
+| Desperate to | How you feel | Regardless of |
+|--------------|--------------|---------------|
+| Rich         | Poor and unworthy | how much money you have|
+| Sexy and desired | Uglier | Actual physical appearance |
+| Happy and loved | Lonelier and more afraid | Who surround you | 
+| Spiritually enlightened | More self centered and shallow you become trying to get there | -NA- desperation is opposite of the aim here :P |
