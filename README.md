@@ -16,3 +16,4 @@
 * [How to Win Friends and Influence People](https://github.com/harshchiki/gyaan/blob/master/How%20to%20Win%20Friends%20and%20Influence%20People/How%20to%20In%20Friends%20and%20Influence%20People%20Notes.md)
 * [Communication Skills](https://github.com/harshchiki/gyaan/blob/master/Communication%20Skills/Communication%20Skills.md)
 * [Mindset - Carol Dweck](https://github.com/harshchiki/gyaan/blob/master/Notes%20from%20Book%20-%20Mindset%20-%20Carol%20Dweck/Mindset%20-%20Carol%20Dweck%20-%20Notes.md)
+* [The Subtle Art of Not Giving a Fck - Mark Manson](https://github.com/harshchiki/gyaan/blob/master/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F*ck%20-%20Mark%20Manson.md)
